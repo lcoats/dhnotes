@@ -503,7 +503,7 @@ qualitative or quantitative analyses. The Journal also publishes research
 notes, review articles, theoretical essays, and book reviews relevant for
 comparative research.
 
-[**Journal of Cultural Analytics**](http://culturalanalytics.org/) is a new
+\*[**Journal of Cultural Analytics**](http://culturalanalytics.org/) is a new
 open-access journal dedicated to the computational study of culture. Its aim
 is to promote high quality scholarship that intervenes in contemporary debates
 about the study of culture using computational and quantitative methods.
