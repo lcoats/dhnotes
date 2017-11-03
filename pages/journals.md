@@ -10,7 +10,7 @@
 ## A
 
 
-[**ADA: A Journal of Gender, New Media & Technology**](http://adanewmedia.org/) is an open-access peer reviewed journal, published twice a year. The first issue highlighted contributions from the field and was an invited issue. Issue 2 was our first peer reviewed issue that used a multi-level open peer review process. Ada is a product of the Fembot Collective and published and preserved through the University of Oregon Libraries. The University of Oregon’s Center for the Study of Women in Society and the School of Journalism and Communication provided seed funding and staff for Ada.
+\*[**ADA: A Journal of Gender, New Media & Technology**](http://adanewmedia.org/) is an open-access peer reviewed journal, published twice a year. The first issue highlighted contributions from the field and was an invited issue. Issue 2 was our first peer reviewed issue that used a multi-level open peer review process. Ada is a product of the Fembot Collective and published and preserved through the University of Oregon Libraries. The University of Oregon’s Center for the Study of Women in Society and the School of Journalism and Communication provided seed funding and staff for Ada.
 
 [**Amodern**](http://amodern.net/) is a peer-reviewed, open-access scholarly
 journal  devoted to the study of media, culture, and poetics. Its purpose is
@@ -451,8 +451,7 @@ crossroads that is communication study. We encourage readers to REGISTER now.
 
 ## J
 
-[**Jahrbuch für
-Computerphilologie**](http://computerphilologie.digital-humanities.de/ejournal.html).
+[**Jahrbuch für Computerphilologie**](http://computerphilologie.digital-humanities.de/ejournal.html).
 Online bietet ein Forum für die Diskussion der vielfältigen Möglichkeiten, den
 Computer in der literaturwissenschaftlichen Arbeit einzusetzen: z.B. für die
 computergestützte Inhaltsanalyse und Stiluntersuchung, für
@@ -463,8 +462,7 @@ Computerphilologie (mentis Verlag) veröffentlicht. Die Online-Version der
 Texte und deren Druckfasssung sind nach der Veröffentlichung des Jahrbuchs
 textidentisch.
 
-[**The Jefferson Journal of Science and
-Culture**](http://www.jeffersonjournal.org) was founded on the belief  that
+[**The Jefferson Journal of Science and Culture**](http://www.jeffersonjournal.org) was founded on the belief  that
 the cross-pollination of various disciplines will be a crucial  factor in the
 advance of scholarship. To facilitate and focus such  exchange, this bi-annual
 journal is dedicated to publishing articles in  each edition, which address a
@@ -472,8 +470,7 @@ specific topic of broader interest.  Scholars from various fields are expected
 not to dispense with the robes  of their specialty but to allow their
 disciplinary expertise to make an  impact beyond its customary bounds.
 
-[**Journal of the Association for Information Science and
-Technology**](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291097-4571)
+[**Journal of the Association for Information Science and Technology**](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291097-4571)
 is a leading international forum for peer-reviewed research in information
 science. For more than half a century, JASIST has provided intellectual
 leadership by publishing original research that focuses on the production,
@@ -492,8 +489,7 @@ field, the Journal contains timely articles about new developments, trends and
 research in electronic media written by academicians, researchers and other
 electronic media professionals.
 
-\*[**Journal of Comparative Research in Sociology and
-Anthropology**](http://compaso.eu/about/) is an online, open access,
+\*[**Journal of Comparative Research in Sociology and Anthropology**](http://compaso.eu/about/) is an online, open access,
 peer-reviewed publication edited by the Department of Sociology and the
 Doctoral School of Sociology of the University of Bucharest. Compaso aims to
 support the exploration of the mutual constitution of social realities and
@@ -512,15 +508,13 @@ open-access journal dedicated to the computational study of culture. Its aim
 is to promote high quality scholarship that intervenes in contemporary debates
 about the study of culture using computational and quantitative methods.
 
-[**Journal of Data Mining and Digital
-Humanities**](http://jdmdh.episciences.org/) is concerned with the
+[**Journal of Data Mining and Digital Humanities**](http://jdmdh.episciences.org/) is concerned with the
 intersection of computing and the disciplines of the humanities, with tools
 provided by computing such as data visualization, information retrieval,
 statistics, text mining by publishing scholarly work beyond the traditional
 humanities.
 
-[**The Journal of Electronic
-Publishing**](http://www.journalofelectronicpublishing.org/) is a forum for
+\*[**The Journal of Electronic Publishing**](http://www.journalofelectronicpublishing.org/) is a forum for
 research and discussion about contemporary publishing practices, and the
 impact of those practices upon users. Our contributors and readers are
 publishers, scholars, librarians, journalists, students, technologists,
@@ -531,8 +525,7 @@ significant change, and that digital communication would become an
 important—and in some cases predominant—means for transmitting published
 information. 
 
-[**Journal of Human-Robot
-Interaction**](http://humanrobotinteraction.org/journal/index.php/HRI) aims to
+[**Journal of Human-Robot Interaction**](http://humanrobotinteraction.org/journal/index.php/HRI) aims to
 be the leading peer-reviewed nterdisciplinary journal of human-robot
 interaction. Publication preference is given to articles that contribute to the
 state of the art or advance general knowledge, have broad interest, and are
@@ -550,8 +543,7 @@ interaction.  Publication preference is given to articles that contribute to
 the state of the art or advance general knowledge, have broad interest, and are
 written to be intelligible to a wide range of audiences.
 
-\*[**Journal of Interactive
-Humanities**](http://Journal%20of%20Interactive%20Humanities) is a
+\*[**Journal of Interactive Humanities**](http://Journal%20of%20Interactive%20Humanities) is a
 peer-reviewed, open access  journal that provides an important forum for the
 development of new  methods of outreach such as interactive games and media for
 museums,  digitizing archives, cultural heritage preservation, and other
@@ -559,8 +551,7 @@ endeavors  in the humanities. Articles explore the intersection between
 narrative,  interactive media, material culture, education and public outreach 
 within the humanities from a variety of perspectives.
 
-\*[**The Journal of Interactive Technology and
-Pedagogy**](http://jitp.commons.gc.cuny.edu/) promotes open scholarly
+\*[**The Journal of Interactive Technology and Pedagogy**](http://jitp.commons.gc.cuny.edu/) promotes open scholarly
 discourse around critical and creative uses of digital technology in teaching,
 learning, and research. Educational institutions have often embraced
 instrumentalist conceptions and market-driven implementations of technology
@@ -573,13 +564,12 @@ as scholarship—and how it is presented, disseminated, and reviewed—by allowi
 contributors to develop their ideas, publish their work, and engage their
 readers using multiple formats.
 
-\*[**Journal of Media
-Innovation**](https://www.journals.uio.no/index.php/TJMI/index) is an open
+\*[**Journal of Media Innovation**](https://www.journals.uio.no/index.php/TJMI/index) is an open
 access journal that explores changes in media technologies, media policies,
 organizational structures, media management, media production, journalism,
 media services, and usages.
 
-[**Journal of Peer Production**](http://peerproduction.net/) seeks high-quality
+\*[**Journal of Peer Production**](http://peerproduction.net/) seeks high-quality
 contributions from researchers and practitioners of peer production. We
 understand peer  production as a mode of commons-based and oriented production
 in which  participation is voluntary and predicated on the self-selection of 
@@ -612,8 +602,7 @@ science. JOCCH is published by the Association for Computing Machinery.
 
 ## K
 
-[**Kairos: A Journal of Rhetoric, Technology, and
-Pedagogy**](http://kairos.technorhetoric.net/about.html) is a refereed
+\*[**Kairos: A Journal of Rhetoric, Technology, and Pedagogy**](http://kairos.technorhetoric.net/about.html) is a refereed
 open-access online journal exploring the intersections of rhetoric, technology,
 and pedagogy. The journal reaches a wide audience—currently 45,000 readers per
 month—hailing from Ascension Island to Zimbabwe (and from every top-level
@@ -921,8 +910,7 @@ systems, instructional media, instrumentation and research tools, public
 administration, social impacts of computing and telecommunications, software
 evaluation, and world-wide web resources for social scientists. 
 
-[**Spheres: Journal for Digital
-Cultures**](http://www.leuphana.de/en/research-centers/cdc/publications/spheres.html)
+\*[**Spheres: Journal for Digital Cultures**](http://www.leuphana.de/en/research-centers/cdc/publications/spheres.html)
 is concerned with contemporary, historical and emerging discussions about
 ‘Digital Cultures’ and exploring the theoretical, political and social stakes
 within these debates by reassembling key concepts like public spheres, media
@@ -959,7 +947,7 @@ cultures of ethnicity and sexuality are becoming conceptually central, and by
 the consequences of these diverse disturbances for educational and cultural
 institutions.
 
-[**Thresholds**](http://openthresholds.org/) is a digital journal for
+\*[**Thresholds**](http://openthresholds.org/) is a digital journal for
 criticism in the spaces between, expected to debut Summer 2016. The journal's
 platform bears witness to the dynamic processes that constitute reading and
 writing by way of a split-screen digital architecture. On the left side of the
@@ -985,7 +973,7 @@ approaches.
 
 ## V
 
-[**Vectors**](http://www.vectorsjournal.org/issues/index.php) maps the
+\*[**Vectors**](http://www.vectorsjournal.org/issues/index.php) maps the
 multiple contours of daily life in an unevenly digital  era, crystallizing
 around themes that highlight the social, political,  and cultural stakes of
 our increasingly technologically-mediated  existence. As such, the journal
