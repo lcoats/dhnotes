@@ -24,6 +24,8 @@ for discussing the history, science, and culture of play. The Journal aims to
 increase awareness and understanding of the role of play in learning and human
 development and the ways in which play illuminates cultural history. 
 
+[**Archive Journal**](www.archivejournal.net) is an open-access, peer-reviewed journal about the use and theory of archives and special collections in higher education. Digital collections, objects, methods, and processes, as well as new media are frequent topics.  An interdisciplinary and cross-professional forum, the journal publishes work by departmental faculty, librarians, and archivists to discuss and forge connections among archival projects (virtual as well as analog) and the communities producing them. 
+
 [**ASAP/Journal**](http://www.artsofthepresent.org/#!about/c3aa), the scholarly
 journal of The Association for the Study of the Arts of the Present, is a forum
 for groundbreaking scholarship that examines the range and significance of the
